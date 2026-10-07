@@ -26,7 +26,7 @@ export default function Header({
       <div className="header-top-row">
         <div className="brand-group">
           <div className="brand-icon-wrapper">
-            <span className="brand-emoji">🌾🐟</span>
+            <span className="brand-emoji">S</span>
           </div>
           <div>
             <div className="brand-title-badge-row">
