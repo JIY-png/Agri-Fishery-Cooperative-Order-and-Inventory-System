@@ -1,5 +1,9 @@
 # SagipAni & Dagat Cooperative — Order & Stock Ledger System
 
+<p align="center">
+  <img src="public/logo.jpeg" alt="SagipAni & Dagat Logo" width="300" />
+</p>
+
 A fail-safe, reactive order reservation and inventory ledger built in **JavaScript with React** and **Vite**.
 
 Designed specifically for **agricultural and fishery cooperatives** transitioning away from fragile physical notebooks and unstructured text messages.
