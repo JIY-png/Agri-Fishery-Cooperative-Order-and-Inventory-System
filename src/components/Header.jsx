@@ -26,7 +26,7 @@ export default function Header({
       <div className="header-top-row">
         <div className="brand-group">
           <div className="brand-icon-wrapper">
-            <span className="brand-emoji">S</span>
+            <img src="/logo.jpeg" alt="SagipAni & Dagat Logo" className="brand-logo-img" />
           </div>
           <div>
             <div className="brand-title-badge-row">
